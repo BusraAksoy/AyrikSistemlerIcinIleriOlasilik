@@ -4,4 +4,8 @@
 
 2 - Permütasyon - Kombinasyon
 
-3 - Olasılık
+3 - Temel Olasılık
+
+4 - Koşullu Olasılık
+
+5 - Bayes Teoremi
